@@ -1,0 +1,3 @@
+Valid prices: 5
+Invalid prices: 2
+Total: 880
