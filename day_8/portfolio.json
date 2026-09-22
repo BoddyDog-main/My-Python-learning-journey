@@ -1,0 +1,27 @@
+{
+    "AAPL": {
+        "price": 250,
+        "shares": 10,
+        "value": 2500
+    },
+    "NVDA": {
+        "price": 175,
+        "shares": 5,
+        "value": 875
+    },
+    "MSFT": {
+        "price": 500,
+        "shares": 3,
+        "value": 1500
+    },
+    "TSLA": {
+        "price": 220,
+        "shares": 8,
+        "value": 1760
+    },
+    "AMD": {
+        "price": 140,
+        "shares": 12,
+        "value": 1680
+    }
+}

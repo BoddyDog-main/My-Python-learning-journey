@@ -1,0 +1,10 @@
+{
+    "AAPL": {
+        "price": 250,
+        "shares": 10
+    },
+    "NVDA": {
+        "price": 175,
+        "shares": 5
+    }
+}
